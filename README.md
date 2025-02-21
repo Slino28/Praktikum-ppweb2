@@ -1,6 +1,6 @@
 # Pemograman Web 2
 
 ## Repositori Praktikum Mata Kuliah Pemograman Web 2
-- Nama   : Sabian Vasyelino
+- Nama   : Sabian Vasyyelino
 - Nim    : 0110224086
-- Rombel : TI06
+- Rombel : TI0
