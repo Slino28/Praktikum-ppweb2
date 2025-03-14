@@ -104,7 +104,8 @@
         $harga_satuan = 0;
     }
 
-    $total_harga = $jumlah * $harga_satuan;
+    $total_harga = (int)$jumlah * (int)$harga_satuan;
+
 
     //CETAK HASIL
     echo '<br>Nama : '.$customer;
